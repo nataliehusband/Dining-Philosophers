@@ -1,4 +1,9 @@
-
+/**
+ * Philosopher class that contains the main method that creates multiple instances
+ * of the class. A central cup is used as a Semaphore for the chopsticks.
+ * @author Natalie and Kyle
+ *
+ */
 public class Philosopher implements Runnable{
 	final Thread thread;
 	String name;

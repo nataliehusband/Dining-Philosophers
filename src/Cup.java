@@ -1,4 +1,8 @@
-
+/**
+ * Cup class that acts as a semaphore for chopsticks. holds 5 chopsticks
+ * @author Natalie and Kyle
+ *
+ */
 public class Cup {
 	int stickCount;
 	
